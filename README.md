@@ -1,104 +1,30 @@
-<h1 align="center">Hi there, I'm Sadik 👋</h1>
-<h3 align="center">A Passionate Full Stack Developer from Bangladesh 🇧🇩</h3>
+<h1>Hi 👋, I'm Sadik</h1>
+<h3>A passionate full stack developer from Bangladesh</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js+Enthusiast;Always+Learning+New+Things+%F0%9F%9A%80" alt="Animated text: Full Stack Developer specializing in React, Next.js, and Node.js" />
-</p>
+<p> <img src="https://komarev.com/ghpvc/?username=devsadikbd&label=Profile%20views&color=0e75b6&style=flat"> </p>
 
----
+<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devsadikbd"></a> </p>
 
-## 🧑‍💻 About Me
+<p> <a href="https://twitter.com/devsadikbd"><img src="https://img.shields.io/twitter/follow/devsadikbd?logo=twitter&style=for-the-badge"></a> </p>
 
-```ts
-const sadik = {
-  name:       "Sadik",
-  username:   "devsadikbd",
-  location:   "Bangladesh 🇧🇩",
-  role:       "Full Stack Developer",
-  learning:   ["NLP Basics", "AI Integration"],
-  askMeAbout: ["React", "Next.js", "NestJS", "Node.js", "TypeScript"],
-  funFact:    "I turn ☕ into code and bugs into features 🚀",
-};
-```
+- 🌱 I'm currently learning **NLP Basics**
 
----
+- 💬 Ask me about **react, next, nest, node, javascript, typescript**
 
-## 🏆 GitHub Trophies
+- 📫 How to reach me **devsadikbd@gmail.com**
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=devsadikbd&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub achievement trophies for devsadikbd" />
-</p>
-
----
-
-## 🛠️ Tech Stack
-
-### 🌐 Frontend
+<h3>Connect with me:</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,sass,bootstrap" />
+<a href="https://twitter.com/devsadikbd"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" width="40" height="40"></a>
+<a href="https://linkedin.com/in/devsadikbd"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"></a>
+<a href="https://fb.com/devsadikbd"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook" width="40" height="40"></a>
 </p>
 
-### ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,graphql" />
-</p>
+<h3>Languages and Tools:</h3>
+<p> <a href="https://aws.amazon.com"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"> </a> <a href="https://www.gnu.org/software/bash/"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40"> </a> <a href="https://getbootstrap.com"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"> </a> <a href="https://www.w3schools.com/css/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"> </a> <a href="https://www.docker.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"> </a> <a href="https://www.electronjs.org"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" width="40" height="40"> </a> <a href="https://expressjs.com"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"> </a> <a href="https://www.figma.com/"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"> </a> <a href="https://firebase.google.com/"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"> </a> <a href="https://cloud.google.com"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40"> </a> <a href="https://git-scm.com/"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"> </a> <a href="https://graphql.org"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="40" height="40"> </a> <a href="https://www.w3.org/html/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"> </a> <a href="https://kubernetes.io"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40"> </a> <a href="https://www.linux.org/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"> </a> <a href="https://www.mongodb.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"> </a> <a href="https://www.mysql.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"> </a> <a href="https://nextjs.org/"> <img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" width="40" height="40"> </a> <a href="https://nodejs.org"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"> </a> <a href="https://www.photoshop.com/en"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" height="40"> </a> <a href="https://www.postgresql.org"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"> </a> <a href="https://postman.com"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"> </a> <a href="https://reactjs.org/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"> </a> <a href="https://redux.js.org"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" height="40"> </a> <a href="https://sass-lang.com"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" height="40"> </a> <a href="https://tailwindcss.com/"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"> </a> <a href="https://www.typescriptlang.org/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"> </a> </p>
 
-### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase" />
-</p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=devsadikbd&show_icons=true&locale=en&layout=compact"></p>
 
-### ☁️ Cloud & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,gcp,bash,linux" />
-</p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=devsadikbd&show_icons=true&locale=en"></p>
 
-### 🧰 Tools & Design
-<p>
-  <img src="https://skillicons.dev/icons?i=git,figma,postman,photoshop,vscode,electron" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devsadikbd&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub statistics card showing contributions and activity for devsadikbd" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devsadikbd&theme=radical&hide_border=false" alt="Contribution streak statistics for devsadikbd" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsadikbd&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Most used programming languages chart for devsadikbd" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devsadikbd&theme=react-dark&hide_border=true" alt="GitHub contribution activity graph for devsadikbd showing commit history over time" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/devsadikbd" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/devsadikbd" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://fb.com/devsadikbd" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="mailto:devsadikbd@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=devsadikbd&icon=0&color=0" alt="Profile view counter for devsadikbd" />
-</p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=devsadikbd&"></p>
