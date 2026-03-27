@@ -1,17 +1,31 @@
-<h1>Hi 👋, I'm Sadik</h1>
-<h3>A passionate full stack developer from Bangladesh</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Sadik+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Passionate+about+Web+%26+AI+%F0%9F%A4%96;Always+learning+new+things+%F0%9F%8C%B1" alt="Typing SVG" />
+</div>
 
-<p> <img src="https://komarev.com/ghpvc/?username=devsadikbd&label=Profile%20views&color=0e75b6&style=flat"> </p>
+<h3 align="center">A passionate full stack developer from Bangladesh 🇧🇩</h3>
 
-<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devsadikbd"></a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=devsadikbd&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/devsadikbd?label=Followers&style=flat-square&color=0e75b6" alt="Followers" />
+  <a href="https://twitter.com/devsadikbd"><img src="https://img.shields.io/twitter/follow/devsadikbd?logo=twitter&style=flat-square&color=0e75b6" alt="Twitter Follow"></a>
+</p>
 
-<p> <a href="https://twitter.com/devsadikbd"><img src="https://img.shields.io/twitter/follow/devsadikbd?logo=twitter&style=for-the-badge"></a> </p>
+---
 
-- 🌱 I'm currently learning **NLP Basics**
+### 👨‍💻 About Me
 
-- 💬 Ask me about **react, next, nest, node, javascript, typescript**
+- 🔭 I'm currently working on **full stack web applications** with modern technologies
+- 🌱 I'm currently learning **NLP Basics** and expanding into **AI/ML**
+- 💡 I love building scalable, performant, and user-friendly applications
+- 💬 Ask me about **React, Next.js, NestJS, Node.js, JavaScript, TypeScript**
+- 📫 How to reach me: **devsadikbd@gmail.com**
+- ⚡ Fun fact: I enjoy turning complex problems into simple, elegant solutions
 
-- 📫 How to reach me **devsadikbd@gmail.com**
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=devsadikbd&theme=flat&no-frame=true&column=6&row=2" alt="GitHub Trophies" />
+  </a>
+</p>
 
 <h3>Connect with me:</h3>
 <p>
