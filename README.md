@@ -58,12 +58,11 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devsadikbd&show_icons=true&hide_border=true&title_color=1D9E75&icon_color=1D9E75&text_color=5F5E5A&bg_color=00000000" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devsadikbd&layout=compact&hide_border=true&title_color=1D9E75&text_color=5F5E5A&bg_color=00000000" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=devsadikbd&show_icons=true&hide_border=true&title_color=1D9E75&icon_color=1D9E75&text_color=888780&bg_color=00000000" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devsadikbd&layout=compact&hide_border=true&title_color=1D9E75&text_color=888780&bg_color=00000000" height="165"/>
 </div>
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=devsadikbd&hide_border=true&ring=1D9E75&fire=5DCAA5&currStreakLabel=1D9E75&background=00000000" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=devsadikbd&hide_border=true&ring=1D9E75&fire=5DCAA5&background=00000000&color=888780&dates=888780&sideNums=1D9E75&sideLabels=888780&currStreakNum=1D9E75&currStreakLabel=1D9E75" height="165"/>
 </div>
 
 ---
